@@ -1,2 +1,7 @@
-# demo-escribania-carmen-d-kjarsgaard-jensen
-Demo web para Escribanía Carmen D. Kjarsgaard Jensen — diseñada por eterlab.
+# Escribanía Carmen D. Kjarsgaard Jensen
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
